@@ -1,0 +1,3 @@
+event handlers
+binding the this keyword
+lifting state up to the parent component

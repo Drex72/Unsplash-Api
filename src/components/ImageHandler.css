@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex{
+    width: 90%;
+    margin: 0 auto;
+    display: grid;
+    margin-top: 1em;
+    align-items: center;
+    grid-template-columns: repeat(3, 1fr);
+}
+img {
+    margin-bottom: 1em;
+    margin-right: 1em;
+
+}
+
+
+body {
+    background-color: black;
+    color: rgb(170, 165, 165);
+}

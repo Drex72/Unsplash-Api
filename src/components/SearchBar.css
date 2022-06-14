@@ -1,0 +1,19 @@
+.searchbar {
+    width: 70%;
+    margin: 0 auto;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin-top: 5px;
+    padding: 3px;
+
+    border-radius: 10px;
+}
